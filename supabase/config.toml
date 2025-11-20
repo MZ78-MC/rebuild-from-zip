@@ -1,0 +1,4 @@
+project_id = "vgrthktymsarxgcftaej"
+
+[functions.dev-assistant]
+verify_jwt = true
